@@ -5,6 +5,7 @@ nanoparticles. DFT simulations are used for molecules interacting with the plasm
 
 
 References:
+
 Real-Time Description of the Electronic Dynamics for a Molecule Close to a Plasmonic Nanoparticle
 Silvio Pipolo and Stefano Corni
 The Journal of Physical Chemistry C 2016 120 (50), 28774-28781
